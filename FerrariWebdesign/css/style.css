@@ -1,0 +1,227 @@
+body {
+    background-color: rgb(250, 255, 250);
+}
+
+/*things to help organization*/
+.greenTableBox {
+    width: 300px;
+    border: 25px solid rgb(21, 205, 196);
+    padding: 25px;
+    margin: 25px;
+}
+hr {
+  	color: #f00;
+	background-color: rgb(21, 205, 196);
+	height: 5px;
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+	height: 200px;
+	width: 100%;
+}
+.navbar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-content: center;
+	height: 50px;
+}
+.navItem {
+	flex: .1;
+	text-align: center;
+}
+.gallery{
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+	margin: auto;
+}
+.galleryRow{
+	display: flex;
+	flex: .321888412;
+	justify-content: space-between;
+	display: flex;
+}
+.tableHolder{
+	flex: .3	
+}
+.galleryDivider{
+	flex: .008583691;
+}
+.footer {
+	display: flex;
+	width: 95%;
+	margin: auto;
+	justify-content: space-between;
+}
+.tableRow{
+	margin: auto;
+	align-content: center;
+	text-align: center;
+}
+.infoRow{
+	flex:.8
+	align-content: center;
+}
+.footer2 {
+	display: flex;
+	height: 50px;
+	width: 100%;
+	flex-direction: column;
+} 
+.footerPading {
+	flex: .8;
+}
+.footeritem {
+	text-align: center;
+	flex: .1;
+}
+.bodyHolder {
+	display: flex;
+	height: 500px;
+	width: 100%;
+	flex-direction: column;
+}
+.bodyHeader{
+	flex: 0.01960784313;
+}
+.bodyBody{
+	flex: 0.98039215686;
+	display: flex;
+	
+}
+.bodyImage {
+	flex: .3;
+	margin-left: 10px;
+    margin-right: 10px;
+}
+.bodyInfo {
+	flex: .7;
+	text-align: center;
+}
+
+/*tables stuff*/
+table {
+	text-align: center;
+}
+thead {
+	height: 5px;
+}
+tbody {
+	height: 5px;
+}
+tfoot {
+	height: 5px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+/*text stuff*/
+.pWhenYouNeedMargin {
+    font-family: "Georgia", serif; font-size: 18px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.pNoSpace{
+	margin: 0px;
+	font-size: 25px;
+}
+.pnoMar{
+	margin: 0px;
+	color: blue;
+}
+h1 {
+    font-family: "Impact", Charcoal, sans-serif; font-size: 500px;
+    text-align: center;
+    margin: 0px;
+}
+h2 {
+    font-family: "Ariel Black", Gadget, sans-serif; font-size: 35px;
+    text-align: center;
+}
+h3 {
+    font-family: "Verdana", Geneva, sans-serif; font-size: 25px;
+    text-align: center;
+}
+h4 {
+	margin: 0px;
+	font-size: 20px;
+}
+h5 {
+	text-align: center;
+}
+.seeableInSpace {
+	font-size: 20px
+}
+.left{
+	float: left;
+}
+
+/*links*/
+a:link {
+	font-style: italic;
+	font-weight: bold;
+    color: rgb(209, 0, 0);
+    text-decoration: none;
+    text-align: center;
+}
+a:visited {
+	font-style: italic;
+	font-weight: bold;
+    color: rgb(144, 0, 0);
+    text-decoration: none;
+    margin-top: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+/*colors*/
+.red {
+    background-color: red;   
+}
+.white{
+	background-color: white;
+}
+.blue {
+    background-color: blue; 
+}
+.grey{
+	background-color: grey;
+}
+.yellow {
+    background-color: yellow;   
+}
+.black {
+    background-color: black;   
+}
+.green {
+	background-color: green;
+}
+.jackBlue{
+	background-color: rgb(21, 205, 196);
+}
+.testColor{
+	background-color: rgb(100, 100, 100);
+}
+.jackYellow{
+	background-color: rgb(201, 216, 0);
+}
+.collegeCombo {
+	background-color: rgb(118, 47, 24);
+}
+.cyan{
+	background-color: cyan;
+}
+.nRed{
+	background-color: rgb(209, 0, 0);
+}
+.uRed{
+	background-color: rgb(144, 0, 0);
+}
+.uGreen{
+	background-color: rgb(0, 142, 73);
+}

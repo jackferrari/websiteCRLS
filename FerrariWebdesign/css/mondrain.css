@@ -1,0 +1,197 @@
+.painting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+    margin-bottom: 30px;
+}
+
+.toprow {
+	height: 290;
+}
+
+.middle {
+    height: 10px;
+    width: 400px;
+    background-color: black;
+}
+
+.bottomrow {
+	height: 100;
+}
+
+.bigbox {
+    width: 290px;
+    height: 290px;
+}
+
+.mediumbox {
+	width: 100px;
+    height: 140px;
+}
+
+.smallerbox {
+	width: 100px;
+	height: 100px;
+}
+
+.smallestbox {
+	width: 70px;
+	height: 100px;
+}
+
+.divider1 {
+	height: 290px;
+    width: 10px;
+}
+
+.divider2 {
+    height: 10px;
+    width: 100px;
+}
+
+.divider3 {
+    height: 100px;
+    width: 10px;
+}
+
+.red {
+    background-color: red;   
+}
+
+.blue {
+    background-color: blue; 
+}
+
+.yellow {
+    background-color: yellow;   
+}
+
+.black {
+    background-color: black;   
+}
+
+.green {
+	background-color: green;
+}
+
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+
+@media only screen and (max-width: 1023px) {
+	.painting {
+	    width: 200px;
+	    height: 200px;
+	}
+	
+	.toprow {
+		height: 145;
+	}
+	
+	.middle {
+	    height: 5px;
+	    width: 200px;
+	    background-color: black;
+	}
+	
+	.bottomrow {
+		height: 50;
+	}
+	
+	.bigbox {
+	    width: 145px;
+	    height: 145px;	
+	}
+
+	.mediumbox {
+		width: 50px;
+	    height: 70px;
+	}
+
+	.smallerbox {
+		width: 50px;
+		height: 50px;
+	}
+	
+	.smallestbox {
+		width: 35px;
+		height: 50px;
+	}
+
+	.divider1 {
+		height: 145px;
+	    width: 5px;
+	}
+
+	.divider2 {
+	    height: 5px;
+	    width: 50px;
+	}
+
+	.divider3 {
+	    height: 50px;
+	    width: 5px;
+	}
+}
+@media only screen and (max-width: 719px) {
+	.painting {
+	    width: 100px;
+	    height:	100px;
+	}
+	
+	.toprow {
+		height: 72.5px;
+	}
+	
+	.middle {
+	    height: 2.5px;
+	    width: 100px;
+	    background-color: black;
+	}
+	
+	.bottomrow {
+		height: 25;
+	}
+	
+	.bigbox {
+	    width: 72.5px;
+	    height: 72.5px;	
+	}
+
+	.mediumbox {
+		width: 25px;
+	    height: 35px;
+	}
+
+	.smallerbox {
+		width: 25px;
+		height: 25px;
+	}
+	
+	.smallestbox {
+		width: 17.5px;
+		height: 25px;
+	}
+
+	.divider1 {
+		height: 72.5px;
+	    width: 2.5px;
+	}
+
+	.divider2 {
+	    height: 2.5px;
+	    width: 25px;
+	}
+
+	.divider3 {
+	    height: 25px;
+	    width: 2.5px;
+	}
+}

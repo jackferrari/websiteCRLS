@@ -1,0 +1,37 @@
+/*Central resources*/
+.imageHolder {
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	height: 400px;
+	width: 100%;
+}
+.image {
+	flex: .33;
+	align-content: center;
+}
+
+/*body*/
+.collegebody {
+	display: flex;
+	/*justify-content: space-between;*/
+	align-content: center;
+	flex-direction: column;
+	height: 1320px;
+	width: 100%;
+}
+.sectionHeader {
+	flex: .0303030303;
+	align-text: center;
+}
+.sectioninfo {
+	flex: .30303030303;
+	display: flex;
+}
+.sectionImage {
+	flex: .3;
+}
+.sectionP {
+	flex: .7;
+	align-content: center;
+}

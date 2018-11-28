@@ -1,0 +1,419 @@
+<div class="header">
+		<div class="title red"><h1>JACK</h1></div>
+		<div class="subtitle"></div>
+	</div>
+	<div class="navbar cyan">
+		<div class="navItem jackBlue"><a href="../index.html">Main Page</a></div>
+		<div class="navItem jackBlue"><a href="favorites.html">Favorites</a></div>
+		<div class="navItem jackBlue"><a href="tablePage.html">Tables</a></div>
+		<div class="navItem jackBlue"><a href="CollegeCentral.html">Colleges</a></div>
+	</div>
+	<div class="bodyHolder">
+		<div class="bodyHeader">
+			<h2>about me</h2>
+		</div>
+		<div class="bodyBody">
+			<div class="bodyInfo">
+				<p>
+					My name is Jack X Ferrari. I live in Cambridge Massachusetts. While I was 
+					born in Virginia and when I was young my parents lived in New York, for the 
+					majority of my life I have lived in Cambridge. I live with my two parents and 
+					my brother. I also have two dogs, Zelda and Mr. Bond.  They are Jack Russel 
+					Terriers. My family also has a house in Gloucester and I learned to sail there. 
+					Today I am the captain of the CRLS sailing team.
+				</p>
+				<p>
+					For school, I go to Cambridge Rindge and Latin high school. I have always gone 
+					to cambridge public schools, and have enjoyed most of my experiences. For 
+					elementary school I went to the Haggerty school school and then for middle school 
+					I went to Peabody. However now I am a senior and I am looking into colleges for 
+					next year. This will be my final year going through the cambridge public school 
+					system.
+				</p>
+			</div>
+			<div class="bodyImage">
+				<img src="../media/420boat.jpg" alt="420 sailing over waves">
+			</div>
+		</div>
+	</div>
+	
+	<div class="bodyHolder">
+		<div class="bodyHeader">
+			<h2>Career aspirations</h2>
+		</div>
+		<div class="bodyBody">
+			<div class="bodyImage">
+				<img src="../media/computer.jpg" alt="a generic computer">
+			</div>
+			<div class="bodyInfo">
+				<p>
+					I hope to have a career in computer science. I am not yet sure how 
+					that career will look, but I know that I want it to be related to 
+					computer science. To get this career I try to go to a college with a 
+					good computer science department and learn all I can. Depending on what 
+					I find most interesting at the end of college I will try to go into that
+					field.
+				</p>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	<div class="bodyHolder">
+		<div class="bodyHeader">
+			<h2>Career</h2>
+		</div>
+		<div class="bodyBody">
+			<div class="bodyInfo">
+				
+				<ol>
+					<li>AP Statistics</li>
+					<li>Web Design</li>
+					<li>Good Work Seminar</li>
+					<li>Internship</li>
+				</ol>	
+				<ul>
+					<li>Northeastern</li>
+					<li>Cornell</li>
+					<li>University of Vermont</li>
+					<li>Umass Amherst</li>
+					<li>Harvard</li>
+					<li>Tufts</li>
+					<li>Bowdoin</li>
+					<li>Williams</li>
+					<li>Skidmore</li>
+				</ul>
+			</div>
+			<div class="bodyImage">
+				<img src="../media/graduation.jpg" alt="college graduation" height="100%" width="100%">
+			</div>
+		</div>
+	</div>
+	<div class="footer2">
+		<div class="footerPading"></div>
+		<div class="footeritem">
+			<a href="mailto:17jferrari@cpsd.us">Send an email into a void</a>
+		</div>
+	</div>
+	
+	
+-----------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jack Favorites!</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+	<div class="header">
+		<div class="title red"><h1>JACK's Favorites</h1></div>
+		<div class="subtitle"></div>
+	</div>
+	<div class="navbar cyan">
+		<div class="navItem jackBlue"><a href="../index.html">Main Page</a></div>
+		<div class="navItem jackBlue"><a href="favorites.html">Favorites</a></div>
+		<div class="navItem jackBlue"><a href="tablePage.html">Tables</a></div>
+		<div class="navItem jackBlue"><a href="CollegeCentral.html">Colleges</a></div>
+	</div>
+	<h2>Hobbies</h2>
+		<h3>Sailing</h3>
+		<img src="../media/420boat.jpg" alt="420 sailing over waves">
+			<br>
+			<p>
+				One of my favorite hobbies is sailing. I learned how to sail in Gloucester when I 
+				was in the 5th grade. Ever since then I have loved sailing and taken advantage of
+				every chance I can to go out. While originally I only sailed in Gloucester at the 
+				YMCA summer camp, Today I mainly sail on the Charles River at <em>Community Boating</em>.
+				When I got to high school, I joined the sailing team and since then I have risen 
+				through the ranks to now become Captain. This spring is my last season sailing for
+				CRLS, but I plan to sail at college if the school I choose has a sailing team.
+			</p>
+			<a href="https://www.community-boating.org" target="_blank">Visit Community Boating's website!</a>
+			<br>
+	
+		<h3>Video Games</h3>
+		<center><img src="../media/Civ.jpg" alt="cover art for Civilization VI"></center>
+			<p>
+				Another hobby that I have put many hours into are video games. I started playing 
+				games when I was in Kindergarten, since then video games have had a big impact on my
+				life. I first started playing on a Gamecube, but today I mainly play games on the 
+				computer. My favorite series of games would be the <em>Civilization</em> series. I love the
+				way that those games combine historical influences to create a tactical game about how
+				humans developed their nations. As someone who loved both history and video games, this
+				game series was a match made in heaven for me.
+			</p>
+			<a href="https://www.civilization.com" target="_blank">Visit Civilization's website!</a>
+			<br>
+		
+	<hr>
+
+	<h2>Favorite Food</h2>
+	<center><img src="../media/food.jpg" alt="picture of Risotto"></center>
+		<p>
+			My favorite food is Risotto. The dish itself is creamy rice with some kind of other vegetable
+			mixed in. I like it with either peas of butter nut squash. My favorite version of the dish is 
+			also the version that my dad makes. In my family we make the dish about once a week. It is then
+			used as a possible dinner for the rest of the week. During the winter on cold days, Risotto is 
+			one of the best dinners that I have. It is also a really satisfying thing to eat. So many good 
+			foods often leave you kind of wanting more, or missing the food. But Risotto fills you up and 
+			is just all around enjoyable to eat.
+		</p>
+		<a href="http://www.foodnetwork.com/recipes/ina-garten/easy-parmesan-risotto-recipe" target="_blank">
+		get a recipe for Risotto!</a>
+		<br>
+		
+	<hr>
+			
+	<h2>Favorite Place</h2>
+	<center><img src="../media/fisherman.jpeg" alt="the fisherman memorial in GLoucester MA"></center>
+		<p>
+			One of my favorite places to go is Gloucester MA. The city is the oldest active fishing port in 
+			the US, and is also home to the fisherman's memorial, which documents every fisherman who has 
+			died at sea since the 1600s. The beaches there are some of the best in Massachusetts, and my 
+			personal favorite. When I was in the 5th grade my family bought a beach house there, and since 
+			then we have spent summers up on Cape Ann. The house itself is very small, and has in the past 
+			lacked some of the amenities of our house in cambridge, but it is still an awesome place to 
+			spend the summer. It was during one summer spent in Gloucester that I learned how to sail, and
+			I still sail today. 
+		</p>
+		<a href="http://gloucester-ma.gov" target="_blank">Visit Gloucester's website!</a>
+		<br>
+	<footer>
+		<center><a href="mailto:17jferrari@cpsd.us">Send an email into a void</a></center>
+	</footer>
+</body>
+</html>	
+
+
+------------------------------------------------------------------------------------------
+
+<h1>BUY A TABLE FIRST!!!!!!!!!</h1>
+
+------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jack's individual Tables</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+	<center><h1><em>This table is an amazing find at a bargin price</em></h1></center> 
+	<br>
+	<footer>
+		<a href="tablePage.html">back to gallery</a>
+	</footer>
+</body>
+<html>
+
+------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Northeastern</title>
+		<link rel="stylesheet" type="text/css" href="../../css/style.css">
+		<link rel="stylesheet" type="text/css" href="../../css/college.css">
+	</head>
+	<body>
+		<div class="header">
+			<div class="title nRed"><h1>Northeastern</h1></div>
+			<div class="subtitle"></div>
+		</div>
+		<div class="navbar yellow">
+			<div class="navItem jackYellow"><a href="../collegeCentral.html">Central</a></div>
+			<div class="navItem jackYellow"><a href="Northeastern.html">Northeastern</a></div>
+			<div class="navItem jackYellow"><a href="UmassAmherst.html">Umass Amherst</a></div>
+			<div class="navItem jackYellow"><a href="UVM.html">UVM</a></div>
+		</div>
+		<div class="collegebody">
+			<div class="sectionHeader"><h3>Northeastern Overview</h3></div>
+			<div class="sectioninfo">
+				<div class="sectionImage">
+					<img src="../../media/northeastern/neSeal.jpg" alt="northeastern" height="100%" width="100%">
+				</div>
+				<div class="sectionP">
+					<p>
+						Northeastern University was founded in 1898, with the main campus 
+						located in Boston near the Museum of Fine Arts. However at any given 
+						time about a third of the student body is out on co-op. The co-op 
+						system of Northeastern is what the school is most well known for. 
+						The program will basically have students working in a company for 
+						a semester, so that they can get real world experience in the field 
+						that the student is studying. This co-op program helps explain 
+						Northeastern's 92% job placement rateOn top of that the school also has a 
+						very good study abroad program. They try to make meaningful study
+						abroad options for many different areas of study. Finally in terms 
+						of academics Northeastern has a fairly unique system of combined 
+						majors, where you are able to combine two seemingly unrelated topics
+						that you are interested in. For example, Computer-Science and History.
+					</p>
+				</div>
+			</div>
+			<div class="sectionHeader"><h3>My Plans at Northeastern</h3></div>
+			<div class="sectioninfo">
+				<div class="sectionP">
+					<p>
+						There are several things that draw me to Northeastern. For one thing,
+						I really like the program of co-ops. I think it will be good to see
+						some of the possible routes I can take for employment. If I went to 
+						Northeastern, I would probably do a combined major of Computer-Science
+						and History. Another draw for me to Northeastern is the location. I 
+						would be fairly close to home, and I would not have to travel very far 
+						when I want to visit home. Being placed in boston also gives me access 
+						to the charles river. The river would give me the ability to keep sailing.
+						Northeastern has a sailing team, and I would be close enough to other 
+						boathouses that I have used in the past.
+					</p>
+				</div>
+				<div class="sectionImage">
+					<img src="../../media/northeastern/neBox.jpg" alt="northeastern" height="100%" width="100%">
+				</div>
+			</div>
+			<div class="sectionHeader"><h3>Cost and Aid</h3></div>
+			<div class="sectioninfo">
+				<div class="sectionImage">
+					<img src="../../media/northeastern/neNew.jpg" alt="northeastern" height="100%" width="100%">
+				</div>
+				<div class="sectionP">
+					<table>
+  						<tr>
+   							<th>Type</th>
+    						<th>Amount</th>
+  						</tr>
+  						<tr>
+   	 						<td>Yearly Cost</td>
+   							<td>$62,800</td>
+  						</tr>
+  						<tr>
+   							<td>4 Year - Free Aid </td>
+   							<td>none</td>
+  						</tr>
+  						<tr>
+   							<td>1 Year - Free Aid</td>
+    						<td>none</td>
+ 						</tr>
+ 						<tr>
+   							<td>Repaid aid (loans)</td>
+							<td>none</td>
+  						</tr>
+  						<tr>
+    						<td>Total Debt</td>
+  			  				<td>$251,200</td>
+  						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div class="footer2">
+			<div class="footerPading"></div>
+			<div class="footeritem">
+				<a href="mailto:17jferrari@cpsd.us">Send an email into a void</a>
+				<br>
+				<a href="http://www.northeastern.edu" target="_blank">Visit the Site</a>
+			</div>
+		</div>	
+	</body>
+</html>
+
+------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jack!</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="../css/mondrain.css">
+	</head>
+	<body>
+		<div class="header">
+			<div class="title red"><h1>ART!!!</h1></div>
+			<div class="subtitle"><h3>-A Jack X Ferrari Original</h3></div>
+		</div>
+		<div class="navbar cyan">
+			<div class="navItem jackBlue"><a href="../index.html">Main Page</a></div>
+			<div class="navItem jackBlue"><a href="favorites.html">Favorites</a></div>
+			<div class="navItem jackBlue"><a href="tablePage.html">Tables</a></div>
+			<div class="navItem jackBlue"><a href="CollegeCentral.html">Colleges</a></div>
+			<div class="navItem jackBlue"><a href="chairs.html">Chairs</a></div>
+		</div>
+		
+    	<div id="painting">
+    		
+    		<div id="toprow">
+    			<div class="bigbox red right">
+    			<a href="mondrain.html"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="290px" width="290px"></a>
+				</div>
+    			<div class="divider1 black right"></div>
+    			<div class="mediumbox green"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="140px" width="100px"></div>
+    			<div class= "divider2 black"></div>
+    			<div class="mediumbox blue"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="140px" width="100px"></div>
+    		</div>
+    		
+    		<div id="middle"></div>
+    		
+    		<div id="bottomrow">
+    			<div class="smallerbox green left"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="100px" width="100px"></div>
+    			<div class= "divider3 black left"></div>
+    			<div class="smallerbox blue left"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="100px" width="100px"></div>
+    			<div class= "divider3 black left"></div>
+    			<div class="smallerbox green left"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="100px" width="100px"></div>
+    			<div class= "divider3 black left"></div>
+    			<div class="smallestbox blue left"><img src="../media/tables/bjursta.JPG" alt="Bjursta" height="100px" width="70px"></div>
+    		</div>
+    	
+    	</div>
+	</body>
+</html>
+
+------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jack!</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="../css/mondrain.css">
+		<link rel="stylesheet" type="text/css" href="../css/mondrainflex.css">
+	</head>
+	<body>
+		<div class="header">
+			<div class="title red"><h1>ART!!</h1></div>
+			<div class="subtitle"><h3>-A Jack X Ferrari Original</h3></div>
+		</div>	
+		<div class="navbar cyan">
+			<div class="navItem jackBlue"><a href="../index.html">Main Page</a></div>
+			<div class="navItem jackBlue"><a href="favorites.html">Favorites</a></div>
+			<div class="navItem jackBlue"><a href="tablePage.html">Tables</a></div>
+			<div class="navItem jackBlue"><a href="CollegeCentral.html">Colleges</a></div>
+			<div class="navItem jackBlue"><a href="chairs.html">Chairs</a></div>
+		</div>
+    	<div class="flexiblePaint">
+    		<div class="flexibleTop">
+    			<div class="flexibleCol">
+    				<div class="flexibleTCB blue"></div>
+    				<div class="flexibleCD black"></div>
+    				<div class="flexibleTCB green"></div>
+    			</div>
+    			<div class="flexibleDivider black"></div>
+    			<div class="flexibleBRB red"></div>
+    		</div>
+    		
+    		<div class="flexibleDivider black"></div>
+    		
+    		<div class="flexibleBottom">
+    			<div class="flexibleBB red"></div>
+    			<div class="flexibleDivider black"></div>
+    			<div class="flexibleLBB yellow"></div>
+    			<div class="flexibleDivider black"></div>
+    			<div class="flexibleBCol">
+    				<div class="flexibleBCB blue"></div>
+    				<div class="flexibleBCD black"></div>
+    				<div class="flexibleBCB green"></div>
+    			</div>
+    		</div>
+    	</div>
+	</body>
+</html>

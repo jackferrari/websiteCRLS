@@ -1,0 +1,247 @@
+body {
+    background-color: #677077;
+}
+.pageAside{
+	background-color: #252839;
+	flex: .15;
+	float: left
+}
+.iconBox{
+	height: 150px;
+	width: 100%;
+	position: relative;
+}
+.navList{
+	display: flex;
+	margin-top: 35px;
+	flex-direction: column;
+}
+.navItem{
+	flex: .05;
+}
+.buttonOfNav{
+	flex: .1;
+	height: 30px;
+	margin: 35px;
+	position: relative;
+	min-width: 20px;
+}
+.centVertLink{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.pWholeButton{
+	height: 100%;
+	width: 100%;
+	line-height: 30px;
+	text-align: center;
+	position: absolute;
+	left: 0px;
+    top: 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;	
+}
+.wholePage{
+	display: flex;
+	height: 100%;
+	width: 100%;	
+}
+.nonAside{
+	flex: .85;
+}
+.pageSection{
+	margin: auto;
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+}
+.iconImage{
+	height: 100%;
+	width:100%;
+}
+.risotto{
+	width: auto;
+}
+.rowChnBox{
+	width: 15 0px;
+	margin: auto;
+	height: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.instrumentation{
+	display: flex;
+	height: 75px;
+}
+.instrumentationsSide{
+	flex: .33;
+}
+.middleButton{
+	height: 100%;
+	flex: .55;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#life{
+	height: 500px;
+	width: 70%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#next{
+	margin: auto;
+	width: 60px;
+	height: 20px;
+	border-radius: 25px;
+	text-align: center;
+}
+#reset {
+	margin: auto;
+	width: 60px;
+	height: 20px;
+	border-radius: 25px;
+	text-align: center;
+}
+#plusButtonCols{
+	flex: .2;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#minusButtonCols{
+	flex: .2;
+	width: 20px;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#plusButton{
+	flex: .2;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#minusButton{
+	flex: .2;
+	width: 20px;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#plusButtonRows{
+	flex: .2;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#minusButtonRows{
+	flex: .2;
+	width: 20px;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#play{
+	flex: .4;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+#pause{
+	flex: .4;
+	height 20px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0px;
+}
+.bDim{
+	height: 10%;
+	width: 10%;
+}
+
+@media only screen and (max-width: 1023px) {
+	.buttonOfNav{
+		flex: .1;
+		height: 30px;
+		margin-top: 35px;
+		margin-bottom: 35px;
+		margin-left: 0px;
+		margin-right: 0px;
+		position: relative;
+		min-width: 20px;
+	}
+	.headerWhole{
+		height: 275px;
+	}
+	h2 {
+    	font-size: 30px;
+	}
+	h3 {
+	    font-size: 20px;
+	}
+}
+
+@media only screen and (max-width: 719px) {
+    .pageSection{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+	table {
+		text-align: left;
+		font-size: 12px;
+	}
+	h1{
+		font-size: 35px;
+	}
+	h2 {
+    	font-size: 25px;
+	}
+	h3 {
+	    font-size: 15px;
+	}
+	.mainFooter {
+		width: 100%;
+	}
+	.buttonOfNav{
+		margin-left: 0px;
+		margin-right: 0px;
+		font-size: 12px;
+	}
+	.iconImage{
+		width:100%;
+		height: auto;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.risotto{
+		width: 40%;
+	}
+	.headerWhole{
+		height: 250px;
+		padding-top: 30px;
+		width: 75%;
+		display: flex;
+		margin: auto;
+		flex-direction: column;
+	}
+	.pWhenYouNeedMargin {
+   		font-size: 14px;
+    	padding-left: 40px;
+    	padding-right: 40px;
+	}
+}
+

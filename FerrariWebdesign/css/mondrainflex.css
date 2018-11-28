@@ -1,0 +1,65 @@
+/*general*/
+
+.flexiblePaint {
+  	display: flex;
+  	flex-direction: column;
+  	background-color: #fff4db;
+    width: 80%;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+.flexibleDivider {
+	flex: .025;
+}
+
+/*rows*/
+
+.flexibleTop {
+	display: flex;
+	flex: .725;
+}
+.flexibleBottom {
+	display: flex;
+	flex: .25;
+}
+
+/*top items*/
+
+.flexibleBRB {
+	flex: .725;
+}
+.flexibleCol {
+	display: flex;
+	flex-direction: column;
+	flex: .25
+}
+.flexibleTCB {
+	flex: .4827586207;
+}
+.flexibleCD {
+	flex: .0344827586;
+}
+
+/*bottom items*/
+
+.flexibleBB {
+	flex: .25;
+}
+.flexibleBCol {
+	display: flex;
+	flex-direction: column;
+	flex: .125;
+}
+.flexibleLBB {
+	flex: .575;
+}
+.flexibleBCB {
+	flex: .45;
+}
+.flexibleBCD {
+	flex: .1;
+}

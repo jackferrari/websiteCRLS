@@ -1,0 +1,175 @@
+body {
+    background-color: #252839;
+}
+.headerThird{
+	flex: .333;
+}
+.bodyImg{
+	margin: auto;
+}
+.headerWhole{
+	height: 200px;
+	padding-top: 30px;
+	width: 60%;
+	display: flex;
+	margin: auto;
+	flex-direction: column;
+}
+.wholeButton{
+	height: 100%;
+	width: 100%;
+	line-height: 90px;
+	text-align: center;
+	position: absolute;
+	left: 0px;
+    top: 0px;	
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+h1{
+	font-family: "Impact", Charcoal, sans-serif; font-size: 50px;
+    text-align: center;
+}
+.title{
+	flex: .66;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	overflow: hidden;
+    text-overflow: ellipsis;
+}
+.subtitle{
+	flex: .34;
+	text-align: center;
+	width: 80%;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.titleText{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.navSection{
+	margin: auto;
+	width: 60%;
+	display: flex;
+	flex-direction: column;
+}
+.navRowMain{
+	display: flex;
+	flex: .25;
+	justify-content: space-between;
+	align-content: center;
+}
+.navButton{
+	height: 90px;
+	flex: .25;
+	line-height: 90px;
+	text-align: center;
+	border-radius: 25px;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: relative;
+	font-size: 25px;	
+}
+.mainFooter {
+	height: 100px;
+	width: 60%;
+	padding-bottom: 20px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.paragraph {
+	text-align: center;
+	color: #677077;
+}
+
+/*Colors*/
+.layoutlightGrey {
+	background-color: #b5b5b7;
+}
+.layoutgrey {
+	background-color: #677077;
+}
+.layoutblue {
+	background-color: #252839;
+}
+.layoutyellow {
+	background-color: #f2b632;
+}
+
+@media only screen and (max-width: 1023px) {
+	h4{
+		font-size: 18px;
+	}
+	.headerWhole{
+		height: 200px;
+		padding-top: 30px;
+		width: 80%;
+		display: flex;
+		margin: auto;
+		flex-direction: column;
+	}
+	.navSection{
+		margin: auto;
+		width: 90%;
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+@media only screen and (max-width: 719px) {
+	h4{
+		font-size: 12px;
+	}
+	.headerWhole{
+		height: 200px;
+		padding-top: 30px;
+		width: 80%;
+		display: flex;
+		margin: auto;
+		flex-direction: column;
+	}
+	.navSection{
+		margin: auto;
+		width: 90%;
+		display: flex;
+		flex-direction: column;
+	}
+	.navButton{
+		height: 45px;
+		flex: .25;
+		line-height: 45px;
+		text-align: center;
+		border-radius: 25px;
+		margin-right: 20px;
+		margin-left: 20px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		position: relative;
+		font-size: 12px;	
+	}
+	.wholeButton{
+		height: 100%;
+		width: 100%;
+		line-height: 45px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+	    top: 0px;	
+	    overflow: hidden;
+	    text-overflow: ellipsis;
+	}
+	.pNoSpace{
+		margin: 0px;
+		font-size: 12px;
+	}
+}
